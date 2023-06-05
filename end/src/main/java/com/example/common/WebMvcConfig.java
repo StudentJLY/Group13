@@ -8,7 +8,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 /**
  * 描述:
  * 作者： xq
- * 日期： 2020/5/8 13:28
+ * 日期： 2023/5/8 13:28
  **/
 @Configuration
 public class WebMvcConfig implements WebMvcConfigurer {

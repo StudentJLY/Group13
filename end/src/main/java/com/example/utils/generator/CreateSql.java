@@ -5,8 +5,8 @@ import cn.hutool.core.io.FileUtil;
 import java.util.List;
 
 /**
- * @author xiaqing
- * @date 2021/4/1 13:40
+ * @author jly
+ * @date 2023/4/1 13:40
  * @description 自动生成sql语句（懒人专属）
  */
 public class CreateSql {

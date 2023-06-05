@@ -15,7 +15,7 @@ import java.util.Map;
 /**
  * mybatis代码生成器
  *
- * @date 2021-3-10
+ * @date 2023-3-10
  */
 public class MybatisCodeGenerator {
     private static final DruidDataSource ds = new DruidDataSource();

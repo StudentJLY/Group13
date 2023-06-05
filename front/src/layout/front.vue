@@ -65,15 +65,6 @@
       </el-col>
     </el-row>
 
-<!--    底部-->
-<!--    <div style="height: 60px; width: 100%; background-color: white; padding: 10px 0; position: fixed; bottom: 0">-->
-<!--      <div style="text-align: center">-->
-<!--        Copyright © 2021 电商系统-->
-<!--      </div>-->
-<!--      <div style="text-align: center; padding: 5px 0">-->
-<!--        公众号：Java学习指南  <span style="margin-left: 20px">B站：程序员青戈</span>-->
-<!--      </div>-->
-<!--    </div>-->
 
   </div>
 </template>
